@@ -36,9 +36,15 @@
             <pubDate>Fri, 27 Mar 2020 17:18:27 +0000</pubDate>
             <link>https://derboardcast.de/blog/quarantine-diaries-007</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7e3311e1a6fc55dd38e064</guid>
-            <description><![CDATA[<p>Eine Katastrophensimulation in der ihr als Team die Welt retten müsst - ganz ohne Homeoffice!</p><p><strong>Links zur Episode:</strong></p><p><a href="https://asmodee.de/pandemic" target="">Pandemic</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></description>
+            <description>
+Eine Katastrophensimulation in der ihr als Team die Welt retten müsst - ganz ohne Homeoffice!
+Links zur Episode: [Pandemic](https://asmodee.de/pandemic)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p>Eine Katastrophensimulation in der ihr als Team die Welt retten müsst - ganz ohne Homeoffice!</p><p><strong>Links zur Episode:</strong></p><p><a href="https://asmodee.de/pandemic" target="">Pandemic</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Verhindert die Pandemie!</itunes:subtitle>
             <itunes:summary>Wir reden über 'Pandemic', ein Teamspiel mit hohem Wiederspielwert!</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -48,8 +54,8 @@
             <itunes:episode>18</itunes:episode>
             <itunes:title>QD007 - Pandemic</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7e3333971cba01a83b4e2b/1585329347015/Daily_7.mp3" length="49069440" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7e3333971cba01a83b4e2b/1585329347015/Daily_7.mp3" length="49069440" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/Daily_7.mp3" length="49069440" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/Daily_7.mp3" length="49069440" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">QD007 - Pandemic</media:title>
             </media:content>
         </item>
@@ -59,9 +65,15 @@
             <pubDate>Thu, 26 Mar 2020 18:37:34 +0000</pubDate>
             <link>https://derboardcast.de/blog/quarantine-diaries-006</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7cf3fde1b54f58a4fb3a4f</guid>
-            <description><![CDATA[<p>Nur wir beide und 7 Weltwunder um uns - Romantik weit gefehlt!</p><p><strong>Links zur Episode:</strong></p><p><a href="https://asmodee.de/7-wonders-reihe/7-wonders-duel" target="">7 Wonders Duel</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></description>
+            <description>
+Nur wir beide und 7 Weltwunder um uns - Romantik weit gefehlt!
+Links zur Episode:
+[7 Wonders Duel](https://asmodee.de/7-wonders-reihe/7-wonders-duel)Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p>Nur wir beide und 7 Weltwunder um uns - Romantik weit gefehlt!</p><p><strong>Links zur Episode:</strong></p><p><a href="https://asmodee.de/7-wonders-reihe/7-wonders-duel" target="">7 Wonders Duel</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>7 Wonders Duel</itunes:subtitle>
             <itunes:summary>Wir reden über das 1v1 Brettspiel '7 Wonders Duel'. Ein vielseitiges Spiel mit hohem Strategiepotential!</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -71,8 +83,8 @@
             <itunes:episode>17</itunes:episode>
             <itunes:title>QD006 - 7 Wonders Duel</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7cf444907b0148aa6b0707/1585247513225/daily_6.mp3" length="35220960" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7cf444907b0148aa6b0707/1585247513225/daily_6.mp3" length="35220960" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/daily_6.mp3" length="35220960" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/daily_6.mp3" length="35220960" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">QD006 - 7 Wonders Duel</media:title>
             </media:content>
         </item>
@@ -82,9 +94,15 @@
             <pubDate>Wed, 25 Mar 2020 21:41:20 +0000</pubDate>
             <link>https://derboardcast.de/blog/quarantine-diaries-004-bpzdy</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7bcceab94b2a792f9e90d7</guid>
-            <description><![CDATA[<p class="">Was passiert wenn man den Spieleklassiker Dame mit Super Mario kreuzt? -- King Me! Ein neuer take an ein altes Spiel.</p><p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.ravensburger.us/products/games/family-games/king-me-60001797/index.html" target="">King Me!</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Was passiert wenn man den Spieleklassiker Dame mit Super Mario kreuzt? -- King Me! Ein neuer take an ein altes Spiel.
+Links zur Episode:[King Me!](https://www.ravensburger.us/products/games/family-games/king-me-60001797/index.html)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Was passiert wenn man den Spieleklassiker Dame mit Super Mario kreuzt? -- King Me! Ein neuer take an ein altes Spiel.</p><p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.ravensburger.us/products/games/family-games/king-me-60001797/index.html" target="">King Me!</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Ich bin hier der King!</itunes:subtitle>
             <itunes:summary>Was passiert wenn man den Spieleklassiker Dame mit Super Mario kreuzt? -- King Me! Ein neuer take an ein altes Spiel.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -94,8 +112,8 @@
             <itunes:episode>16</itunes:episode>
             <itunes:title>QD005 - King Me!</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7bcf455b525f60efa17453/1585172384956/QD5.mp3" length="25841498" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7bcf455b525f60efa17453/1585172384956/QD5.mp3" length="25841498" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/QD5.mp3" length="25841498" type="audio/mpeg"/>
+            <media:content url="ttps://derboardcast.de/audio/QD5.mp3" length="25841498" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">QD005 - King Me!</media:title>
             </media:content>
         </item>
@@ -105,193 +123,252 @@
             <pubDate>Tue, 24 Mar 2020 19:38:46 +0000</pubDate>
             <link>https://derboardcast.de/blog/quarantine-diaries-004</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7a5f445467707348340795</guid>
-            <description><![CDATA[<p class="">Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?</p><p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M?ref_=ast_sto_dp" target="">Sagrada</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
-            <content:encoded><![CDATA[<p class="">Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?</p><p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M?ref_=ast_sto_dp" target="">Sagrada</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Auf dem Menü heute: Sagrada</itunes:subtitle>
-            <itunes:summary>Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:09:41</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>15</itunes:episode>
-            <itunes:title>QD004 - Sagrada (mit @jan.wac)</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7a609f2c3bfa4891873711/1585171690337/QD4.mp3" length="18580711" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7a609f2c3bfa4891873711/1585171690337/QD4.mp3" length="18580711" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">QD004 - Sagrada (mit @jan.wac)</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>Quarantine Diaries - 003</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Mon, 23 Mar 2020 19:09:46 +0000</pubDate>
-            <link>https://derboardcast.de/blog/quarantine-diaries-003</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7907a6ad3e4b17883d10e3</guid>
-            <description><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.arcanewonders.com/game/goodcritters/" target="">Goodcritters</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.arcanewonders.com/game/goodcritters/" target="">Goodcritters</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Goodcritters</itunes:subtitle>
-            <itunes:summary>Zeit eure Gang zu snitchen in 'Goodcritters'! In diesem Spiel müsst ihr euch so viel Loot wie möglich unter den Nagel reißen. :P</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:14:20</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>14</itunes:episode>
-            <itunes:title>QD003 - Goodcritters</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7907e16f0c882a3fe63af1/1584990459250/Daily_3.mp3" length="34411680" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7907e16f0c882a3fe63af1/1584990459250/Daily_3.mp3" length="34411680" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">QD003 - Goodcritters</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>Quarantine Diaries - 002</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Fri, 20 Mar 2020 19:35:30 +0000</pubDate>
-            <link>https://derboardcast.de/blog/quarantine-diaries-002</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e75193a7154480f9ade5e18</guid>
-            <description><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/NSV-4059-THE-MIND-Kartenspiel/dp/B0792N4X9Z" target="">The Mind</a></p><p class=""><strong>Service:</strong></p><p class="">- LvL 2, 5, 8 Throwing Star</p><p class="">- LvL 3, 6, 9 Live</p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
-            <content:encoded><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/NSV-4059-THE-MIND-Kartenspiel/dp/B0792N4X9Z" target="">The Mind</a></p><p class=""><strong>Service:</strong></p><p class="">- LvL 2, 5, 8 Throwing Star</p><p class="">- LvL 3, 6, 9 Live</p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>The Mind</itunes:subtitle>
-            <itunes:summary>Wir erzählen euch von einem meditativen Gesellschaftsspiel, in dem ihr eure Geister eins werden lassen müsst.</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:13:32</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>13</itunes:episode>
-            <itunes:title>QD002 - The Mind</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7519c05530c251d96bd6ec/1584732872196/Daily_2.mp3" length="32508000" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e7519c05530c251d96bd6ec/1584732872196/Daily_2.mp3" length="32508000" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">QD002 - The Mind</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>Quarantine Diaries - 001</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Thu, 19 Mar 2020 19:31:01 +0000</pubDate>
-            <link>https://derboardcast.de/blog/quarantine-diaries-001</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e73c473dd15137f753257b9</guid>
-            <description><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.amazon.de/Arcane-Wonders-ARWDTE20-Brettspiel-Onitama/dp/B01C05HZB4" target="">Onitama</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p><p></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.amazon.de/Arcane-Wonders-ARWDTE20-Brettspiel-Onitama/dp/B01C05HZB4" target="">Onitama</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p><p></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Onitama</itunes:subtitle>
-            <itunes:summary>Wir erzählen euch von einem 1v1 Brettspiel, was einem die Zeit in der Quarantäne versüßt.</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:13:04</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>12</itunes:episode>
-            <itunes:title>QD001 - Onitama</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e73c62c9f77ed4683aa3b2d/1584645997915/Daily_1.mp3" length="31361760" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e73c62c9f77ed4683aa3b2d/1584645997915/Daily_1.mp3" length="31361760" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">QD001 - Onitama</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>EP11 - Silvesterspiele</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Tue, 31 Dec 2019 11:52:37 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep11-silvesterspiele</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e0b32dbca0564159dbfcf61</guid>
-            <description><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Pegasus-Spiele-17211G-Munchkin-Kartenspiel/dp/B006WY1X1S" target="">Munchkin</a></p><p>- <a href="https://www.redflags.com/" target="">Red Flags</a></p><p>- <a href="https://www.amazon.de/Repos-692186-Sags-Personen-Kartenspiel/dp/B00GMZTNV4" target="">Sag's mir!</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Pegasus-Spiele-17211G-Munchkin-Kartenspiel/dp/B006WY1X1S" target="">Munchkin</a></p><p>- <a href="https://www.redflags.com/" target="">Red Flags</a></p><p>- <a href="https://www.amazon.de/Repos-692186-Sags-Personen-Kartenspiel/dp/B00GMZTNV4" target="">Sag's mir!</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Brettspiele zum Jahreswechsel.</itunes:subtitle>
-            <itunes:summary>An Silvester werden nicht nur die Korken geknallt,.....sondern auch Brettspiele gespielt! Unsere favourite Picks dafür hört ihr in dieser Folge.</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:31:30</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>11</itunes:episode>
-            <itunes:title>EP11 - Silvesterspiele</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e0b33259df9c819e0db5c34/1577792625629/Boardcast_Silvesterspiele.mp3" length="75607200" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e0b33259df9c819e0db5c34/1577792625629/Boardcast_Silvesterspiele.mp3" length="75607200" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP11 - Silvesterspiele</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>EP10 - Weihnachtsspiele</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Mon, 23 Dec 2019 18:50:28 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep10-weihnachtsspiele</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e0106ec75fa5d26176c30d2</guid>
-            <description><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Das-Original-Malefiz-Spiel-Klassiker-Spieldauer/dp/3473673897/ref=pd_sbs_21_t_2/259-6108827-0633205?_encoding=UTF8&amp;pd_rd_i=3473673897&amp;pd_rd_r=86cb3215-a995-4b1f-b356-3fa35ae9f7ad&amp;pd_rd_w=1H77c&amp;pd_rd_wg=PuOoL&amp;pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&amp;pf_rd_r=QX9SAM6385K0ZYWD6SK4&amp;psc=1&amp;refRID=QX9SAM6385K0ZYWD6SK4" target="">Malefiz</a></p><p>- <a href="https://www.amazon.de/dp/B01N21X2SP/ref=sr_1_2_sspa?hvadid=167076423321&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=8171505452204349432&amp;hvtargid=kwd-299459417453&amp;keywords=klartext%20spiel&amp;psc=1&amp;qid=1577126764&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkE2MEpKWDREWEpXJmVuY3J5cHRlZElkPUEwMzI2NTE2VkkwOVRQUURYNlA5JmVuY3J5cHRlZEFkSWQ9QTAyMTc5NDExRFpKSjBCQlhMMkFDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&amp;sr=8-2-spons" target="">Klartext</a></p><p>- <a href="https://www.amazon.de/dp/B001OH9EDW/ref=sr_1_1?adgrpid=67855857261&amp;gclid=Cj0KCQiA6IHwBRCJARIsALNjViVTZVqPscF-gFobOTMvFaNXDr9znphIXEAVZtJYvkQcukmHzD1rq-AaAkMaEALw_wcB&amp;hvadid=391629362045&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=6949083959955898207&amp;hvtargid=kwd-129854262&amp;hydadcr=29224_1989450&amp;keywords=dixit&amp;qid=1577126829&amp;sr=8-1" target="">DiXit</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Das-Original-Malefiz-Spiel-Klassiker-Spieldauer/dp/3473673897/ref=pd_sbs_21_t_2/259-6108827-0633205?_encoding=UTF8&amp;pd_rd_i=3473673897&amp;pd_rd_r=86cb3215-a995-4b1f-b356-3fa35ae9f7ad&amp;pd_rd_w=1H77c&amp;pd_rd_wg=PuOoL&amp;pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&amp;pf_rd_r=QX9SAM6385K0ZYWD6SK4&amp;psc=1&amp;refRID=QX9SAM6385K0ZYWD6SK4" target="">Malefiz</a></p><p>- <a href="https://www.amazon.de/dp/B01N21X2SP/ref=sr_1_2_sspa?hvadid=167076423321&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=8171505452204349432&amp;hvtargid=kwd-299459417453&amp;keywords=klartext%20spiel&amp;psc=1&amp;qid=1577126764&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkE2MEpKWDREWEpXJmVuY3J5cHRlZElkPUEwMzI2NTE2VkkwOVRQUURYNlA5JmVuY3J5cHRlZEFkSWQ9QTAyMTc5NDExRFpKSjBCQlhMMkFDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&amp;sr=8-2-spons" target="">Klartext</a></p><p>- <a href="https://www.amazon.de/dp/B001OH9EDW/ref=sr_1_1?adgrpid=67855857261&amp;gclid=Cj0KCQiA6IHwBRCJARIsALNjViVTZVqPscF-gFobOTMvFaNXDr9znphIXEAVZtJYvkQcukmHzD1rq-AaAkMaEALw_wcB&amp;hvadid=391629362045&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=6949083959955898207&amp;hvtargid=kwd-129854262&amp;hydadcr=29224_1989450&amp;keywords=dixit&amp;qid=1577126829&amp;sr=8-1" target="">DiXit</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Brettspiele, die das Fest der Liebe versüßen</itunes:subtitle>
-            <itunes:summary>Henrik und Jago geben ihre Top 3 Spiele für den Weihnachtsabend und erzählen euch warum Weihnachten und Brettspiele der perfect Match sind!</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:30:08</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>10</itunes:episode>
-            <itunes:title>EP10 - Weihnachtsspiele</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e01cc06d079ed22d11fdd3a/1577176646316/Boardcast_Weihnachtsspiele.mp3" length="72338400" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e01cc06d079ed22d11fdd3a/1577176646316/Boardcast_Weihnachtsspiele.mp3" length="72338400" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP10 - Weihnachtsspiele</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>EP9 - Agent Undercover</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Sat, 21 Dec 2019 11:49:30 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep9-agent-undercover</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5dfe044027eac52da172327a</guid>
-            <description><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover" target="">Agent Undercover</a></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover-2" target="">Agent Undercover 2</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
-            <content:encoded><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover" target="">Agent Undercover</a></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover-2" target="">Agent Undercover 2</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Ein schnelles Social Deduction Game.</itunes:subtitle>
-            <itunes:summary>In dieser Folge stellen wir euch das actionreiche und lustige Spiel Agent Undercover (engl. Spyfall) vor. Wir erzählen euch von unseren Erfahrungen und warum Agent Undercover auch in eurer Sammlung nicht fehlen sollte!</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:28:28</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>9</itunes:episode>
-            <itunes:title>EP9 - Agent Undercover</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5dfe04657f83a564190c2947/1576928627858/Boardcast_Agent+Undercover.mp3" length="68312160" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5dfe04657f83a564190c2947/1576928627858/Boardcast_Agent+Undercover.mp3" length="68312160" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP9 - Agent Undercover</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>EP8 - Spooktober</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Thu, 31 Oct 2019 07:40:20 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep8-spooktober</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5dba818dbd86ba536223dfbd</guid>
-            <description><![CDATA[<p class="">Links zu den Spielen:</p><p class="">- <a href="https://www.atlas-games.com/gloom/">Gloom</a></p><p class="">- <a href="https://www.amazon.de/NSV-4034-THE-GAME-Kartenspiel/dp/B00SKICEJE/ref=sr_1_5?adgrpid=66423890090&amp;gclid=Cj0KCQjw6eTtBRDdARIsANZWjYZHDVUFemg1hLLJ2E-sAYU9uhrFIWVbJcMNMQEE8AVaXdmXSI2D0bsaAiXxEALw_wcB&amp;hvadid=352738618709&amp;hvdev=c&amp;hvlocphy=9061157&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=8995903210898307140&amp;hvtargid=kwd-301185741753&amp;hydadcr=9342_1746404&amp;keywords=the%20game%20spiel&amp;qid=1572504490&amp;sr=8-5">The Game</a></p><p class="">- <a href="https://www.moses-verlag.de/black-stories-das-spiel.html">Black Stories - das Spiel</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
-            <content:encoded><![CDATA[<p class="">Links zu den Spielen:</p><p class="">- <a href="https://www.atlas-games.com/gloom/">Gloom</a></p><p class="">- <a href="https://www.amazon.de/NSV-4034-THE-GAME-Kartenspiel/dp/B00SKICEJE/ref=sr_1_5?adgrpid=66423890090&amp;gclid=Cj0KCQjw6eTtBRDdARIsANZWjYZHDVUFemg1hLLJ2E-sAYU9uhrFIWVbJcMNMQEE8AVaXdmXSI2D0bsaAiXxEALw_wcB&amp;hvadid=352738618709&amp;hvdev=c&amp;hvlocphy=9061157&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=8995903210898307140&amp;hvtargid=kwd-301185741753&amp;hydadcr=9342_1746404&amp;keywords=the%20game%20spiel&amp;qid=1572504490&amp;sr=8-5">The Game</a></p><p class="">- <a href="https://www.moses-verlag.de/black-stories-das-spiel.html">Black Stories - das Spiel</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
-            <itunes:author>Der Boardcast</itunes:author>
-            <itunes:subtitle>Schaurige Spiele</itunes:subtitle>
-            <itunes:summary>In dieser Folge reden wir mit euch über drei helloween-themed Spiele die auf einer schaurigen Party nicht fehlen sollten.</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>00:21:54</itunes:duration>
-            <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>8</itunes:episode>
-            <itunes:title>EP8 - Spooktober</itunes:title>
-            <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5dba8f04b17b4d6aeb02207d/1572507601357/DerBoardcast_Schocktober.mp3" length="52557120" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5dba8f04b17b4d6aeb02207d/1572507601357/DerBoardcast_Schocktober.mp3" length="52557120" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP8 - Spooktober</media:title>
-            </media:content>
-        </item>
-        <item>
-            <title>EP7 - Azul</title>
-            <dc:creator>Henrik Wachowitz</dc:creator>
-            <pubDate>Fri, 06 Sep 2019 04:00:00 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep5-azul</link>
-            <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d6fc63b5ea54a00019ba4c0</guid>
-            <description><![CDATA[<p class="">Links zur Episode:</p><p class="">- <a href="https://www.amazon.de/Pegasus-Spiele-Games-Spiel-Jahres/dp/B07K2QGHT7">Azul</a></p><p class="">-<a href="https://www.amazon.de/Pegasus-Spiele-54807G-Buntglasfenster-Sintra/dp/B07JY1R7YX/ref=pd_lpo_sbs_21_img_1?_encoding=UTF8&amp;psc=1&amp;refRID=YMAW61NH1QTHBEH2TGFD"> Azul: Buntglasfenster</a></p><p class="">- <a href="https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M/ref=asc_df_B07CLRY89M/?adgrpid=65464914127&amp;hvadid=310450091250&amp;hvadid=310450091250&amp;hvdev=c&amp;hvdev=c&amp;hvdvcmdl=&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocint=&amp;hvlocphy=9061158&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvnetw=g&amp;hvpone=&amp;hvpone=&amp;hvpos=1o1&amp;hvpos=1o1&amp;hvptwo=&amp;hvptwo=&amp;hvqmt=&amp;hvqmt=&amp;hvrand=1441436240128875215&amp;hvrand=1441436240128875215&amp;hvtargid=pla-584329473071&amp;hvtargid=pla-584329473071&amp;linkCode=df0&amp;psc=1&amp;psc=1&amp;ref=&amp;tag=googshopde-21&amp;tag=&amp;th=1">Sagrada</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?
+Links zur Episode: [Sagrada](https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M?ref_=ast_sto_dp)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+                <content:encoded><![CDATA[<p class="">Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?</p><p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M?ref_=ast_sto_dp" target="">Sagrada</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Auf dem Menü heute: Sagrada</itunes:subtitle>
+                <itunes:summary>Wir stellen euch mit unserem Gast Jan das Würfel-zieh-spiel Sagrada vor. Da heißt es nur noch: Würflein, würflein an der Wand, wer ist der beste Fenstersetzer im Land?</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:09:41</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>15</itunes:episode>
+                <itunes:title>QD004 - Sagrada (mit @jan.wac)</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/QD4.mp3" length="18580711" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/QD4.mp3" length="18580711" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">QD004 - Sagrada (mit @jan.wac)</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Quarantine Diaries - 003</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Mon, 23 Mar 2020 19:09:46 +0000</pubDate>
+                <link>https://derboardcast.de/blog/quarantine-diaries-003</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e7907a6ad3e4b17883d10e3</guid>
+                <description>
+Links zur Episode:[Goodcritters](https://www.arcanewonders.com/game/goodcritters/)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+                </description>
+                <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.arcanewonders.com/game/goodcritters/" target="">Goodcritters</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Goodcritters</itunes:subtitle>
+                <itunes:summary>Zeit eure Gang zu snitchen in 'Goodcritters'! In diesem Spiel müsst ihr euch so viel Loot wie möglich unter den Nagel reißen. :P</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:14:20</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>14</itunes:episode>
+                <itunes:title>QD003 - Goodcritters</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Daily_3.mp3" length="34411680" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/Daily_3.mp3" length="34411680" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">QD003 - Goodcritters</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Quarantine Diaries - 002</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Fri, 20 Mar 2020 19:35:30 +0000</pubDate>
+                <link>https://derboardcast.de/blog/quarantine-diaries-002</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e75193a7154480f9ade5e18</guid>
+                <description>
+Links zur Episode:[The Mind](https://www.amazon.de/NSV-4059-THE-MIND-Kartenspiel/dp/B0792N4X9Z)
+Service:
+- LvL 2, 5, 8 Throwing Star
+- LvL 3, 6, 9 Live
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+                </description>
+                <content:encoded><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class=""><a href="https://www.amazon.de/NSV-4059-THE-MIND-Kartenspiel/dp/B0792N4X9Z" target="">The Mind</a></p><p class=""><strong>Service:</strong></p><p class="">- LvL 2, 5, 8 Throwing Star</p><p class="">- LvL 3, 6, 9 Live</p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>The Mind</itunes:subtitle>
+                <itunes:summary>Wir erzählen euch von einem meditativen Gesellschaftsspiel, in dem ihr eure Geister eins werden lassen müsst.</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:13:32</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>13</itunes:episode>
+                <itunes:title>QD002 - The Mind</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Daily_2.mp3" length="32508000" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/Daily_2.mp3" length="32508000" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">QD002 - The Mind</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>Quarantine Diaries - 001</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Thu, 19 Mar 2020 19:31:01 +0000</pubDate>
+                <link>https://derboardcast.de/blog/quarantine-diaries-001</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e73c473dd15137f753257b9</guid>
+                <description>
+Links zur Episode: [Onitama](https://www.amazon.de/Arcane-Wonders-ARWDTE20-Brettspiel-Onitama/dp/B01C05HZB4)
+Musik Credits: 
+HolFix - Wacky Dance https://www.youtube.com/holfix
+                </description>
+                <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p><a href="https://www.amazon.de/Arcane-Wonders-ARWDTE20-Brettspiel-Onitama/dp/B01C05HZB4" target="">Onitama</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p><p></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Onitama</itunes:subtitle>
+                <itunes:summary>Wir erzählen euch von einem 1v1 Brettspiel, was einem die Zeit in der Quarantäne versüßt.</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:13:04</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>12</itunes:episode>
+                <itunes:title>QD001 - Onitama</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Daily_1.mp3" length="31361760" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/Daily_1.mp3" length="31361760" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">QD001 - Onitama</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>EP11 - Silvesterspiele</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Tue, 31 Dec 2019 11:52:37 +0000</pubDate>
+                <link>https://derboardcast.de/blog/ep11-silvesterspiele</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e0b32dbca0564159dbfcf61</guid>
+                <description>
+Links zur Episode:
+- [Munchkin](https://www.amazon.de/Pegasus-Spiele-17211G-Munchkin-Kartenspiel/dp/B006WY1X1S)
+- [Red Flags](https://www.redflags.com/)
+- [Sag's mir!](https://www.amazon.de/Repos-692186-Sags-Personen-Kartenspiel/dp/B00GMZTNV4)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix 
+                </description>
+                <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Pegasus-Spiele-17211G-Munchkin-Kartenspiel/dp/B006WY1X1S" target="">Munchkin</a></p><p>- <a href="https://www.redflags.com/" target="">Red Flags</a></p><p>- <a href="https://www.amazon.de/Repos-692186-Sags-Personen-Kartenspiel/dp/B00GMZTNV4" target="">Sag's mir!</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p><p></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Brettspiele zum Jahreswechsel.</itunes:subtitle>
+                <itunes:summary>An Silvester werden nicht nur die Korken geknallt,.....sondern auch Brettspiele gespielt! Unsere favourite Picks dafür hört ihr in dieser Folge.</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:31:30</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>11</itunes:episode>
+                <itunes:title>EP11 - Silvesterspiele</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Boardcast_Silvesterspiele.mp3" length="75607200" type="audio/mpeg"/>
+                <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5e0b33259df9c819e0db5c34/1577792625629/Boardcast_Silvesterspiele.mp3" length="75607200" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">EP11 - Silvesterspiele</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>EP10 - Weihnachtsspiele</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Mon, 23 Dec 2019 18:50:28 +0000</pubDate>
+                <link>https://derboardcast.de/blog/ep10-weihnachtsspiele</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5e0106ec75fa5d26176c30d2</guid>
+                <description>
+Links zur Episode:
+- [Malefiz](https://www.amazon.de/Das-Original-Malefiz-Spiel-Klassiker-Spieldauer/dp/3473673897/ref=pd_sbs_21_t_2/259-6108827-0633205?_encoding=UTF8&amp;pd_rd_i=3473673897&amp;pd_rd_r=86cb3215-a995-4b1f-b356-3fa35ae9f7ad&amp;pd_rd_w=1H77c&amp;pd_rd_wg=PuOoL&amp;pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&amp;pf_rd_r=QX9SAM6385K0ZYWD6SK4&amp;psc=1&amp;refRID=QX9SAM6385K0ZYWD6SK4)
+- [Klartext](https://www.amazon.de/dp/B01N21X2SP/ref=sr_1_2_sspa?hvadid=167076423321&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=8171505452204349432&amp;hvtargid=kwd-299459417453&amp;keywords=klartext%20spiel&amp;psc=1&amp;qid=1577126764&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkE2MEpKWDREWEpXJmVuY3J5cHRlZElkPUEwMzI2NTE2VkkwOVRQUURYNlA5JmVuY3J5cHRlZEFkSWQ9QTAyMTc5NDExRFpKSjBCQlhMMkFDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&amp;sr=8-2-spons)
+- [DiXit](https://www.amazon.de/dp/B001OH9EDW/ref=sr_1_1?adgrpid=67855857261&amp;gclid=Cj0KCQiA6IHwBRCJARIsALNjViVTZVqPscF-gFobOTMvFaNXDr9znphIXEAVZtJYvkQcukmHzD1rq-AaAkMaEALw_wcB&amp;hvadid=391629362045&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=6949083959955898207&amp;hvtargid=kwd-129854262&amp;hydadcr=29224_1989450&amp;keywords=dixit&amp;qid=1577126829&amp;sr=8-1)
+Musik Credits: HolFix - Wacky Dance https://www.youtube.com/holfix 
+                </description>
+                <content:encoded><![CDATA[<p><strong>Links zur Episode:</strong></p><p>- <a href="https://www.amazon.de/Das-Original-Malefiz-Spiel-Klassiker-Spieldauer/dp/3473673897/ref=pd_sbs_21_t_2/259-6108827-0633205?_encoding=UTF8&amp;pd_rd_i=3473673897&amp;pd_rd_r=86cb3215-a995-4b1f-b356-3fa35ae9f7ad&amp;pd_rd_w=1H77c&amp;pd_rd_wg=PuOoL&amp;pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&amp;pf_rd_r=QX9SAM6385K0ZYWD6SK4&amp;psc=1&amp;refRID=QX9SAM6385K0ZYWD6SK4" target="">Malefiz</a></p><p>- <a href="https://www.amazon.de/dp/B01N21X2SP/ref=sr_1_2_sspa?hvadid=167076423321&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=8171505452204349432&amp;hvtargid=kwd-299459417453&amp;keywords=klartext%20spiel&amp;psc=1&amp;qid=1577126764&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkE2MEpKWDREWEpXJmVuY3J5cHRlZElkPUEwMzI2NTE2VkkwOVRQUURYNlA5JmVuY3J5cHRlZEFkSWQ9QTAyMTc5NDExRFpKSjBCQlhMMkFDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&amp;sr=8-2-spons" target="">Klartext</a></p><p>- <a href="https://www.amazon.de/dp/B001OH9EDW/ref=sr_1_1?adgrpid=67855857261&amp;gclid=Cj0KCQiA6IHwBRCJARIsALNjViVTZVqPscF-gFobOTMvFaNXDr9znphIXEAVZtJYvkQcukmHzD1rq-AaAkMaEALw_wcB&amp;hvadid=391629362045&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=6949083959955898207&amp;hvtargid=kwd-129854262&amp;hydadcr=29224_1989450&amp;keywords=dixit&amp;qid=1577126829&amp;sr=8-1" target="">DiXit</a></p><p><strong>Musik Credits:</strong></p><p>HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Brettspiele, die das Fest der Liebe versüßen</itunes:subtitle>
+                <itunes:summary>Henrik und Jago geben ihre Top 3 Spiele für den Weihnachtsabend und erzählen euch warum Weihnachten und Brettspiele der perfect Match sind!</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:30:08</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>10</itunes:episode>
+                <itunes:title>EP10 - Weihnachtsspiele</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Boardcast_Weihnachtsspiele.mp3" length="72338400" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/Boardcast_Weihnachtsspiele.mp3" length="72338400" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">EP10 - Weihnachtsspiele</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>EP9 - Agent Undercover</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Sat, 21 Dec 2019 11:49:30 +0000</pubDate>
+                <link>https://derboardcast.de/blog/ep9-agent-undercover</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5dfe044027eac52da172327a</guid>
+                <description>
+Links zur Episode:
+- [Agent Undercover](https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover)
+- [Agent Undercover 2](https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover-2
+Musik Credits: HolFix - Wacky Dance https://www.youtube.com/holfix
+                </description>
+                <content:encoded><![CDATA[<p class=""><strong>Links zur Episode:</strong></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover" target="">Agent Undercover</a></p><p class="">- <a href="https://www.piatnik.com/spiele/gesellschaftsspiele/partyspiele/agent-undercover-2" target="">Agent Undercover 2</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Ein schnelles Social Deduction Game.</itunes:subtitle>
+                <itunes:summary>In dieser Folge stellen wir euch das actionreiche und lustige Spiel Agent Undercover (engl. Spyfall) vor. Wir erzählen euch von unseren Erfahrungen und warum Agent Undercover auch in eurer Sammlung nicht fehlen sollte!</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:28:28</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>9</itunes:episode>
+                <itunes:title>EP9 - Agent Undercover</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/Boardcast_Agent+Undercover.mp3" length="68312160" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/Boardcast_Agent+Undercover.mp3" length="68312160" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">EP9 - Agent Undercover</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>EP8 - Spooktober</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Thu, 31 Oct 2019 07:40:20 +0000</pubDate>
+                <link>https://derboardcast.de/blog/ep8-spooktober</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5dba818dbd86ba536223dfbd</guid>
+                <description>
+Links zu den Spielen:
+- [Gloom](https://www.atlas-games.com/gloom/)
+- [The Game](https://www.amazon.de/NSV-4034-THE-GAME-Kartenspiel/dp/B00SKICEJE/ref=sr_1_5?adgrpid=66423890090&amp;gclid=Cj0KCQjw6eTtBRDdARIsANZWjYZHDVUFemg1hLLJ2E-sAYU9uhrFIWVbJcMNMQEE8AVaXdmXSI2D0bsaAiXxEALw_wcB&amp;hvadid=352738618709&amp;hvdev=c&amp;hvlocphy=9061157&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=8995903210898307140&amp;hvtargid=kwd-301185741753&amp;hydadcr=9342_1746404&amp;keywords=the%20game%20spiel&amp;qid=1572504490&amp;sr=8-5)
+- [Black Stories - das Spiel](https://www.moses-verlag.de/black-stories-das-spiel.html)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+                </description>
+                <content:encoded><![CDATA[<p class="">Links zu den Spielen:</p><p class="">- <a href="https://www.atlas-games.com/gloom/">Gloom</a></p><p class="">- <a href="https://www.amazon.de/NSV-4034-THE-GAME-Kartenspiel/dp/B00SKICEJE/ref=sr_1_5?adgrpid=66423890090&amp;gclid=Cj0KCQjw6eTtBRDdARIsANZWjYZHDVUFemg1hLLJ2E-sAYU9uhrFIWVbJcMNMQEE8AVaXdmXSI2D0bsaAiXxEALw_wcB&amp;hvadid=352738618709&amp;hvdev=c&amp;hvlocphy=9061157&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=8995903210898307140&amp;hvtargid=kwd-301185741753&amp;hydadcr=9342_1746404&amp;keywords=the%20game%20spiel&amp;qid=1572504490&amp;sr=8-5">The Game</a></p><p class="">- <a href="https://www.moses-verlag.de/black-stories-das-spiel.html">Black Stories - das Spiel</a></p><p class=""><strong>Musik Credits:</strong></p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
+                <itunes:author>Der Boardcast</itunes:author>
+                <author>Der Boardcast</author>
+                <itunes:subtitle>Schaurige Spiele</itunes:subtitle>
+                <itunes:summary>In dieser Folge reden wir mit euch über drei helloween-themed Spiele die auf einer schaurigen Party nicht fehlen sollten.</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:duration>00:21:54</itunes:duration>
+                <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
+                <itunes:season>1</itunes:season>
+                <itunes:episode>8</itunes:episode>
+                <itunes:title>EP8 - Spooktober</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://derboardcast.de/audio/DerBoardcast_Schocktober.mp3" length="52557120" type="audio/mpeg"/>
+                <media:content url="https://derboardcast.de/audio/DerBoardcast_Schocktober.mp3" length="52557120" type="audio/mpeg" isDefault="true" medium="audio">
+                    <media:title type="plain">EP8 - Spooktober</media:title>
+                </media:content>
+            </item>
+            <item>
+                <title>EP7 - Azul</title>
+                <dc:creator>Henrik Wachowitz</dc:creator>
+                <pubDate>Fri, 06 Sep 2019 04:00:00 +0000</pubDate>
+                <link>https://derboardcast.de/blog/ep5-azul</link>
+                <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d6fc63b5ea54a00019ba4c0</guid>
+                <description>Links zur Episode:</p>
+- [Azul](https://www.amazon.de/Pegasus-Spiele-Games-Spiel-Jahres/dp/B07K2QGHT7)
+- [Azul: Buntglasfenster](https://www.amazon.de/Pegasus-Spiele-54807G-Buntglasfenster-Sintra/dp/B07JY1R7YX/ref=pd_lpo_sbs_21_img_1?_encoding=UTF8&amp;psc=1&amp;refRID=YMAW61NH1QTHBEH2TGFD)
+- [Sagrada] (https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M/ref=asc_df_B07CLRY89M/?adgrpid=65464914127&amp;hvadid=310450091250&amp;hvadid=310450091250&amp;hvdev=c&amp;hvdev=c&amp;hvdvcmdl=&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocint=&amp;hvlocphy=9061158&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvnetw=g&amp;hvpone=&amp;hvpone=&amp;hvpos=1o1&amp;hvpos=1o1&amp;hvptwo=&amp;hvptwo=&amp;hvqmt=&amp;hvqmt=&amp;hvrand=1441436240128875215&amp;hvrand=1441436240128875215&amp;hvtargid=pla-584329473071&amp;hvtargid=pla-584329473071&amp;linkCode=df0&amp;psc=1&amp;psc=1&amp;ref=&amp;tag=googshopde-21&amp;tag=&amp;th=1)
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Links zur Episode:</p><p class="">- <a href="https://www.amazon.de/Pegasus-Spiele-Games-Spiel-Jahres/dp/B07K2QGHT7">Azul</a></p><p class="">-<a href="https://www.amazon.de/Pegasus-Spiele-54807G-Buntglasfenster-Sintra/dp/B07JY1R7YX/ref=pd_lpo_sbs_21_img_1?_encoding=UTF8&amp;psc=1&amp;refRID=YMAW61NH1QTHBEH2TGFD"> Azul: Buntglasfenster</a></p><p class="">- <a href="https://www.amazon.de/Pegasus-Spiele-51120G-Sagrada/dp/B07CLRY89M/ref=asc_df_B07CLRY89M/?adgrpid=65464914127&amp;hvadid=310450091250&amp;hvadid=310450091250&amp;hvdev=c&amp;hvdev=c&amp;hvdvcmdl=&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocint=&amp;hvlocphy=9061158&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvnetw=g&amp;hvpone=&amp;hvpone=&amp;hvpos=1o1&amp;hvpos=1o1&amp;hvptwo=&amp;hvptwo=&amp;hvqmt=&amp;hvqmt=&amp;hvrand=1441436240128875215&amp;hvrand=1441436240128875215&amp;hvtargid=pla-584329473071&amp;hvtargid=pla-584329473071&amp;linkCode=df0&amp;psc=1&amp;psc=1&amp;ref=&amp;tag=googshopde-21&amp;tag=&amp;th=1">Sagrada</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Diese Folge geht um das Fliesenlege-Spiel Azul</itunes:subtitle>
             <itunes:summary>Wir begrüßen euch zurück aus der Sommerpause mit dem tollen Spiel “Azul”. Was dieses Fliesenlege-Abenteuer hergibt und was für kniffe es dabei gibt verraten wir euch in dieser Folge.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -301,8 +378,8 @@
             <itunes:episode>7</itunes:episode>
             <itunes:title>EP5 - Azul</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d6fc66d3ca355000153c9fd/1567606674752/EP_6_Azul_fin.mp3" length="34636822" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d6fc66d3ca355000153c9fd/1567606674752/EP_6_Azul_fin.mp3" length="34636822" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/EP_6_Azul_fin.mp3" length="34636822" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/EP_6_Azul_fin.mp3" length="34636822" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">EP5 - Azul</media:title>
             </media:content>
         </item>
@@ -312,9 +389,15 @@
             <pubDate>Mon, 29 Jul 2019 09:55:00 +0000</pubDate>
             <link>https://derboardcast.de/blog/ep4-unstable-unicorns</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d3df852045889000189d16f</guid>
-            <description><![CDATA[<p class="">Link zum Spiel: <a href="https://www.amazon.de/Unstable-Unicorns-Capricious-Unicorn-Basisspiel/dp/B07S7HKNCV/ref=sr_1_4?adgrpid=70543116145&amp;gclid=Cj0KCQjwj_XpBRCCARIsAItJiuSR_D6ygZcnNaWc4FZMP19Kf0h0cLoYN5nOMrLreoMVciKfYMDPiUEaArzOEALw_wcB&amp;hvadid=352539187821&amp;hvdev=c&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=4525524396467441741&amp;hvtargid=kwd-415624917555&amp;hydadcr=27932_1737056&amp;keywords=unstable+unicorns&amp;qid=1564342984&amp;s=gateway&amp;sr=8-4">hier</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Link zum Spiel: [hier](https://www.amazon.de/Unstable-Unicorns-Capricious-Unicorn-Basisspiel/dp/B07S7HKNCV/ref=sr_1_4?adgrpid=70543116145&amp;gclid=Cj0KCQjwj_XpBRCCARIsAItJiuSR_D6ygZcnNaWc4FZMP19Kf0h0cLoYN5nOMrLreoMVciKfYMDPiUEaArzOEALw_wcB&amp;hvadid=352539187821&amp;hvdev=c&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=4525524396467441741&amp;hvtargid=kwd-415624917555&amp;hydadcr=27932_1737056&amp;keywords=unstable+unicorns&amp;qid=1564342984&amp;s=gateway&amp;sr=8-4)
+
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Link zum Spiel: <a href="https://www.amazon.de/Unstable-Unicorns-Capricious-Unicorn-Basisspiel/dp/B07S7HKNCV/ref=sr_1_4?adgrpid=70543116145&amp;gclid=Cj0KCQjwj_XpBRCCARIsAItJiuSR_D6ygZcnNaWc4FZMP19Kf0h0cLoYN5nOMrLreoMVciKfYMDPiUEaArzOEALw_wcB&amp;hvadid=352539187821&amp;hvdev=c&amp;hvlocphy=9061158&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=4525524396467441741&amp;hvtargid=kwd-415624917555&amp;hydadcr=27932_1737056&amp;keywords=unstable+unicorns&amp;qid=1564342984&amp;s=gateway&amp;sr=8-4">hier</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>In dieser Folge stellen wir euch das Kartenspiel Unstable Unicorns vor</itunes:subtitle>
             <itunes:summary>Wir reden mit euch über das Deck-building Kartenspiel Unstable Unicorns.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -324,8 +407,8 @@
             <itunes:episode>6</itunes:episode>
             <itunes:title>EP4 - Unstable Unicorns</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d3df8890fc6b800014ca58b/1564342598333/EP5+-+Unstable+Unicorn+fin.mp3" length="50414155" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d3df8890fc6b800014ca58b/1564342598333/EP5+-+Unstable+Unicorn+fin.mp3" length="50414155" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/EP5+-+Unstable+Unicorn+fin.mp3" length="50414155" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/EP5+-+Unstable+Unicorn+fin.mp3" length="50414155" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">EP4 - Unstable Unicorns</media:title>
             </media:content>
         </item>
@@ -335,9 +418,21 @@
             <pubDate>Mon, 15 Jul 2019 09:55:00 +0000</pubDate>
             <link>https://derboardcast.de/blog/ep3-liegewiesenspiele</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d2c25c567fca80001171482</guid>
-            <description><![CDATA[<p class="">Hier sind nochmal links zu den Spielen</p><p class="">Exploding Kittens: <a href="https://explodingkittens.com/">https://explodingkittens.com/</a></p><p class="">Party Edition: <a href="https://www.amazon.de/Exploding-Kittens-Party-Pack-Players/dp/B07CTXHNSL/ref=pd_sbs_21_7?_encoding=UTF8&amp;pd_rd_i=B07CTXHNSL&amp;pd_rd_r=2d4b5229-a6d0-11e9-ba06-057d7006466b&amp;pd_rd_w=eKT4S&amp;pd_rd_wg=Uvyee&amp;pf_rd_p=74d946ea-18de-4443-bed6-d8837f922070&amp;pf_rd_r=M9VKBBPN49YNJRB4JJ5F&amp;psc=1&amp;refRID=M9VKBBPN49YNJRB4JJ5F">Link</a></p><p class="">Jungle Speed: <a href="https://asmodee.de/jungle-speed">https://asmodee.de/jungle-speed</a></p><p class="">Werwörter: <a href="https://www.amazon.de/Ravensburger-26025-Kartenspiele-Werw%C3%B6rter/dp/B07JZQXK93/ref=sr_1_2?adgrpid=74705084807&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrLnuDPr8gLEQXmRZ0Br9bNSBy_z9Q0CCqyPNTCJoVdVqIwZSUy6juYaAoMeEALw_wcB&amp;hvadid=352718667772&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=2139891354410205720&amp;hvtargid=kwd-612514368132&amp;hydadcr=1265_1759208&amp;keywords=werw%C3%B6rter&amp;qid=1563175138&amp;s=gateway&amp;sr=8-2">Link</a></p><p class="">DOS.: <a href="https://www.amazon.de/Mattel-Games-FRM36-Kartenspiel-geeignet/dp/B076MMCQWW/ref=sr_1_2_sspa?adgrpid=71178557415&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrJmC0HFEaUDQRjbf_hwHQO2q59cz_xnKu3TOt-XFBgRfony-pJJjCkaAnxIEALw_wcB&amp;hvadid=352851852461&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=1793907136090004639&amp;hvtargid=kwd-430367661530&amp;hydadcr=9341_1746403&amp;keywords=dos%20kartenspiel&amp;psc=1&amp;qid=1563175237&amp;s=gateway&amp;sr=8-2-spons">Link</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Hier sind nochmal links zu den Spielen
+Exploding Kittens: https://explodingkittens.com/
+Party Edition: [Link](https://www.amazon.de/Exploding-Kittens-Party-Pack-Players/dp/B07CTXHNSL/ref=pd_sbs_21_7?_encoding=UTF8&amp;pd_rd_i=B07CTXHNSL&amp;pd_rd_r=2d4b5229-a6d0-11e9-ba06-057d7006466b&amp;pd_rd_w=eKT4S&amp;pd_rd_wg=Uvyee&amp;pf_rd_p=74d946ea-18de-4443-bed6-d8837f922070&amp;pf_rd_r=M9VKBBPN49YNJRB4JJ5F&amp;psc=1&amp;refRID=M9VKBBPN49YNJRB4JJ5F)
+Jungle Speed: https://asmodee.de/jungle-speed
+Werwörter: [Link](https://www.amazon.de/Ravensburger-26025-Kartenspiele-Werw%C3%B6rter/dp/B07JZQXK93/ref=sr_1_2?adgrpid=74705084807&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrLnuDPr8gLEQXmRZ0Br9bNSBy_z9Q0CCqyPNTCJoVdVqIwZSUy6juYaAoMeEALw_wcB&amp;hvadid=352718667772&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=2139891354410205720&amp;hvtargid=kwd-612514368132&amp;hydadcr=1265_1759208&amp;keywords=werw%C3%B6rter&amp;qid=1563175138&amp;s=gateway&amp;sr=8-2)
+
+DOS.: [Link](https://www.amazon.de/Mattel-Games-FRM36-Kartenspiel-geeignet/dp/B076MMCQWW/ref=sr_1_2_sspa?adgrpid=71178557415&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrJmC0HFEaUDQRjbf_hwHQO2q59cz_xnKu3TOt-XFBgRfony-pJJjCkaAnxIEALw_wcB&amp;hvadid=352851852461&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=1793907136090004639&amp;hvtargid=kwd-430367661530&amp;hydadcr=9341_1746403&amp;keywords=dos%20kartenspiel&amp;psc=1&amp;qid=1563175237&amp;s=gateway&amp;sr=8-2-spons)
+
+Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Hier sind nochmal links zu den Spielen</p><p class="">Exploding Kittens: <a href="https://explodingkittens.com/">https://explodingkittens.com/</a></p><p class="">Party Edition: <a href="https://www.amazon.de/Exploding-Kittens-Party-Pack-Players/dp/B07CTXHNSL/ref=pd_sbs_21_7?_encoding=UTF8&amp;pd_rd_i=B07CTXHNSL&amp;pd_rd_r=2d4b5229-a6d0-11e9-ba06-057d7006466b&amp;pd_rd_w=eKT4S&amp;pd_rd_wg=Uvyee&amp;pf_rd_p=74d946ea-18de-4443-bed6-d8837f922070&amp;pf_rd_r=M9VKBBPN49YNJRB4JJ5F&amp;psc=1&amp;refRID=M9VKBBPN49YNJRB4JJ5F">Link</a></p><p class="">Jungle Speed: <a href="https://asmodee.de/jungle-speed">https://asmodee.de/jungle-speed</a></p><p class="">Werwörter: <a href="https://www.amazon.de/Ravensburger-26025-Kartenspiele-Werw%C3%B6rter/dp/B07JZQXK93/ref=sr_1_2?adgrpid=74705084807&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrLnuDPr8gLEQXmRZ0Br9bNSBy_z9Q0CCqyPNTCJoVdVqIwZSUy6juYaAoMeEALw_wcB&amp;hvadid=352718667772&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=2139891354410205720&amp;hvtargid=kwd-612514368132&amp;hydadcr=1265_1759208&amp;keywords=werw%C3%B6rter&amp;qid=1563175138&amp;s=gateway&amp;sr=8-2">Link</a></p><p class="">DOS.: <a href="https://www.amazon.de/Mattel-Games-FRM36-Kartenspiel-geeignet/dp/B076MMCQWW/ref=sr_1_2_sspa?adgrpid=71178557415&amp;gclid=Cj0KCQjwyLDpBRCxARIsAEENsrJmC0HFEaUDQRjbf_hwHQO2q59cz_xnKu3TOt-XFBgRfony-pJJjCkaAnxIEALw_wcB&amp;hvadid=352851852461&amp;hvdev=c&amp;hvlocphy=1004234&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=e&amp;hvrand=1793907136090004639&amp;hvtargid=kwd-430367661530&amp;hydadcr=9341_1746403&amp;keywords=dos%20kartenspiel&amp;psc=1&amp;qid=1563175237&amp;s=gateway&amp;sr=8-2-spons">Link</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Spiele die man gerne mit an den See nimmt</itunes:subtitle>
             <itunes:summary>In dieser Folge stellen wir euch vier kleine Spiele vor, die man super mit an den See oder in einen Park mitnehmen kann um die Sommerlichen Tage und Abende zu versüßen.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -347,8 +442,8 @@
             <itunes:episode>4</itunes:episode>
             <itunes:title>EP3 - Liegewiesenspiele</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d2c2ac79d58c40001d2dc4d/1563176177478/EP4_Liegewiesenspiele_final.mp3" length="98777050" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d2c2ac79d58c40001d2dc4d/1563176177478/EP4_Liegewiesenspiele_final.mp3" length="98777050" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/EP4_Liegewiesenspiele_final.mp3" length="98777050" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/EP5+-+Unstable+Unicorn+fin.mp3" length="98777050" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">EP3 - Liegewiesenspiele</media:title>
             </media:content>
         </item>
@@ -358,9 +453,18 @@
             <pubDate>Sun, 07 Jul 2019 10:00:00 +0000</pubDate>
             <link>https://derboardcast.de/blog/ep25-der-jgus</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d21ac8d41ec3a00010807ab</guid>
-            <description><![CDATA[<p class="">Das Pen&amp;Paper über das wir in dieser Folge hauptsächlich gesprochen haben ist Das Schwarze Auge. Hier ist ein link für Interessierte: <a href="https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/">https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/</a></p><p class="">Für One-Shots und Neueinsteiger, die es einfach mal ausprobieren wollen ist How to be a Hero eine gute Alternative: <a href="https://howtobeahero.de/index.php?title=Hauptseite">https://howtobeahero.de/index.php?title=Hauptseite</a></p><p class="">Zuletzt haben wir noch kurz Aborea angesprochen. Das simple Regelwerk macht auch dieses P&amp;P gut für einen schnellen einstieg: <a href="https://www.aborea.de/">https://www.aborea.de/</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Das Pen&Paper über das wir in dieser Folge hauptsächlich gesprochen haben ist Das Schwarze Auge. 
+Hier ist ein link für Interessierte: https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/
+Für One-Shots und Neueinsteiger, die es einfach mal ausprobieren wollen ist How to be a Hero eine gute Alternative: https://howtobeahero.de/index.php?title=Hauptseite
+
+Zuletzt haben wir noch kurz Aborea angesprochen. Das simple Regelwerk macht auch dieses P&amp;P gut für einen schnellen einstieg: https://www.aborea.de/
+### Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Das Pen&amp;Paper über das wir in dieser Folge hauptsächlich gesprochen haben ist Das Schwarze Auge. Hier ist ein link für Interessierte: <a href="https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/">https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/</a></p><p class="">Für One-Shots und Neueinsteiger, die es einfach mal ausprobieren wollen ist How to be a Hero eine gute Alternative: <a href="https://howtobeahero.de/index.php?title=Hauptseite">https://howtobeahero.de/index.php?title=Hauptseite</a></p><p class="">Zuletzt haben wir noch kurz Aborea angesprochen. Das simple Regelwerk macht auch dieses P&amp;P gut für einen schnellen einstieg: <a href="https://www.aborea.de/">https://www.aborea.de/</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Heute reden wir mit unserem Gast Zeno über Pen&amp;Paper</itunes:subtitle>
             <itunes:summary>In diesem Board talk haben wir uns als Gast den Zeno eingeladen. Wir reden mit ihm über Pen&amp;Paper Spiele und seine Aufgabe als Erzähler/Spielleiter.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -368,22 +472,29 @@
             <itunes:image href="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/5d077518ba7f61000143cb41/5d21ac8d41ec3a00010807ab/1577177227584/1500w/PNG+image+4.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>4</itunes:episode>
-            <itunes:title>EP2.5 - Der Jägus</itunes:title>
+            <itunes:title>EP4 - Der Jägus</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d21acbb8c74c30001d2fc94/1562488412623/BT2_Zeno_final.mp3" length="100013373" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d21acbb8c74c30001d2fc94/1562488412623/BT2_Zeno_final.mp3" length="100013373" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP2.5 - Der Jägus</media:title>
+            <enclosure url="https://derboardcast.de/audio/BT2_Zeno_final.mp3" length="100013373" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/BT2_Zeno_final.mp3" length="100013373" type="audio/mpeg" isDefault="true" medium="audio">
+                <media:title type="plain">EP4 - Der Jägus</media:title>
             </media:content>
         </item>
         <item>
             <title>EP3 - Unearth</title>
             <dc:creator>Henrik Wachowitz</dc:creator>
             <pubDate>Sat, 29 Jun 2019 12:55:13 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep2-unearth</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d175a7ea860cc00018ccedc</guid>
-            <description><![CDATA[<p class="">Heute geht es um “Unearth”, ein Würfel- und Entdeckungsspiel aus dem Hause Brotherwise.</p><p class="">Wir reden über den Einfluss von Zufall und Strategien die man fahren kann. Zudem diskutieren wir verschiedene Hausregeln.</p><p class="">Link zum Spiel: <a href="http://www.brotherwisegames.com/unearth/">http://www.brotherwisegames.com/unearth/</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance, Entering the Caves <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Heute geht es um “Unearth”, ein Würfel- und Entdeckungsspiel aus dem Hause Brotherwise.
+Wir reden über den Einfluss von Zufall und Strategien die man fahren kann. Zudem diskutieren wir verschiedene Hausregeln.
+Link zum Spiel: http://www.brotherwisegames.com/unearth/
+
+### Musik Credits:
+HolFix - Wacky Dance, Entering the Caves https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Heute geht es um “Unearth”, ein Würfel- und Entdeckungsspiel aus dem Hause Brotherwise.</p><p class="">Wir reden über den Einfluss von Zufall und Strategien die man fahren kann. Zudem diskutieren wir verschiedene Hausregeln.</p><p class="">Link zum Spiel: <a href="http://www.brotherwisegames.com/unearth/">http://www.brotherwisegames.com/unearth/</a></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance, Entering the Caves <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Der Boardcast</itunes:author>
+            <author>Der Boardcast</author>
             <itunes:subtitle>Heute geht es um das Würfelspiel "Unearth"</itunes:subtitle>
             <itunes:summary>Heute stellen wir euch das Spiel "Unearth" vor.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -391,11 +502,11 @@
             <itunes:image href="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/5d077518ba7f61000143cb41/5d175a7ea860cc00018ccedc/1577177058504/1500w/PNG+image+10.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>3</itunes:episode>
-            <itunes:title>EP2 - Unearth</itunes:title>
+            <itunes:title>EP3 - Unearth</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d175a95fe09840001ff14a6/1561811868594/Boardcast_Unearthed_final.mp3" length="63954360" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d175a95fe09840001ff14a6/1561811868594/Boardcast_Unearthed_final.mp3" length="63954360" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP2 - Unearth</media:title>
+            <enclosure url="https://derboardcast.de/audio/Boardcast_Unearthed_final.mp3" length="63954360" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/Boardcast_Unearthed_final.mp3" length="63954360" type="audio/mpeg" isDefault="true" medium="audio">
+                <media:title type="plain">EP3 - Unearth</media:title>
             </media:content>
         </item>
         <item>
@@ -404,9 +515,16 @@
             <pubDate>Sat, 29 Jun 2019 12:55:09 +0000</pubDate>
             <link>https://derboardcast.de/blog/bt1-brettspiel-love-und-tryhards</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d17577d03b9810001cdf6fe</guid>
-            <description><![CDATA[<p class="">Willkommen zur ersten Ausgabe des Boardtalks! In diesem Talkshow-format laden wir uns Gäste ein um mit ihnen über ihre Favoriten, aber auch über allgemeine Themen aus dem Bereich “Brettspiele” reden.</p><p class="">Heute geht es dabei um Tryharden und wie wir überhaupt zum Boardgame-fanatismus gekommen sind.</p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
+            <description>
+Willkommen zur ersten Ausgabe des Boardtalks! In diesem Talkshow-format laden wir uns Gäste ein um mit ihnen über ihre Favoriten, aber auch über allgemeine Themen aus dem Bereich “Brettspiele” reden.
+Heute geht es dabei um Tryharden und wie wir überhaupt zum Boardgame-fanatismus gekommen sind.  
+
+### Musik Credits:
+HolFix - Wacky Dance https://www.youtube.com/holfix
+            </description>
             <content:encoded><![CDATA[<p class="">Willkommen zur ersten Ausgabe des Boardtalks! In diesem Talkshow-format laden wir uns Gäste ein um mit ihnen über ihre Favoriten, aber auch über allgemeine Themen aus dem Bereich “Brettspiele” reden.</p><p class="">Heute geht es dabei um Tryharden und wie wir überhaupt zum Boardgame-fanatismus gekommen sind.</p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Jago, Henrik, Julian</itunes:author>
+            <author>Jago, Henrik, Julian</author>
             <itunes:subtitle>Das ist die erste Folge unserer 2 Wöchentlichen Talk-Runde "BoardTalk"</itunes:subtitle>
             <itunes:summary>Wir fragen unseren Gast, wie er zum Brettspiel-Liebhaber wurde und was er vom tryharden hält.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
@@ -414,10 +532,10 @@
             <itunes:image href="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/5d077518ba7f61000143cb41/5d17577d03b9810001cdf6fe/1577177208641/1500w/PNG+image+10.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>2</itunes:episode>
-            <itunes:title>EP1.5 - Brettspiel-Love und Tryhards</itunes:title>
+            <itunes:title>EP2 - Brettspiel-Love und Tryhards</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d1757b6fe09840001fefafd/1561811110096/BT1_Hager_fin_v0_1.mp3" length="60244136" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d1757b6fe09840001fefafd/1561811110096/BT1_Hager_fin_v0_1.mp3" length="60244136" type="audio/mpeg" isDefault="true" medium="audio">
+            <enclosure url="https://derboardcast.de/audio/BT1_Hager_fin_v0_1.mp3" length="60244136" type="audio/mpeg"/>
+            <media:content url="https://derboardcast.de/audio/BT1_Hager_fin_v0_1.mp3" length="60244136" type="audio/mpeg" isDefault="true" medium="audio">
                 <media:title type="plain">EP1.5 - Brettspiel-Love und Tryhards</media:title>
             </media:content>
         </item>
@@ -433,7 +551,7 @@ Link zum Spiel: https://www.secrethitler.com
 (dort ist auch das Print and play zu finden)
 Der äußerst moralische Blogpost, für alle die ihn selbst verköstigen möchten: https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95
 
-###Musik Credits:
+### Musik Credits:
 HolFix - Wacky Dance https://www.youtube.com/holfix
             </description>
             <content:encoded><![CDATA[<p class="">Für alle die sich nach dem Counter fragen: 41</p><p class="">Link zum Spiel: <a href="https://www.secrethitler.com/">https://www.secrethitler.com/</a></p><p class="">(dort ist auch das Print and play zu finden)</p><p class="">Der äußerst moralische Blogpost, für alle die ihn selbst verköstigen möchten: <a href="https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95">https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95</a></p><p class=""></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>

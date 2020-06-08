@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "audio/EP1_Secret_Hitler_fin.mp3": "184cfca9976b77fa0827caf2b49c79c3",
 "main.dart.js": "0b05013f641396e96ef060d5b3267451",
-"feed.xml": "3862846b402bd0018023e61a3f70a251",
+"feed.xml": "97f6194272ac823c0b4eb127dfe7c0eb",
 "assets/NOTICES": "da90e60904f5b55cf18f0af5c10fa361",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "ffef466a50fbc9ba6a16887682586d0d",
