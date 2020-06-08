@@ -47601,12 +47601,12 @@ o=Q.PL(r,p,r,L.ep(H.b(n.b),r,r,r,r),o,r)
 p=L.jg(C.w_,r,r)
 t=L.ep("Author",r,r,r,r)
 s=u.t
-return M.a24(q,E.a62(E.a65(T.a4o(H.a([o,Q.PL(r,p,r,L.ep(H.b(n.r),r,r,r,r),t,r),new M.Am(!0,n.c,!1,r,r,r,new B.MU(),r,r,r,r,r),new T.eF(C.a2,r,r,T.a2q(C.y,H.a([M.kz(r,D.zD(r,U.r4("https://ricffb.github.io/img/spotify.png",r,r),C.ac,!1,r,r,r,r,r,r,r,r,r,r,r,new B.MV(),r,r,r,r,r,r),r,r,r,r,r,C.aW,300)],s),C.n7),r)],s),C.ia,C.jk),r,C.l)),r)}}
+return M.a24(q,E.a62(E.a65(T.a4o(H.a([o,Q.PL(r,p,r,L.ep(H.b(n.r),r,r,r,r),t,r),new M.Am(!0,n.c,!1,r,r,r,new B.MU(),r,r,r,r,r),new T.eF(C.a2,r,r,T.a2q(C.y,H.a([M.kz(r,D.zD(r,U.r4("https://derboardcast.de/img/spotify.png",r,r),C.ac,!1,r,r,r,r,r,r,r,r,r,r,r,new B.MV(),r,r,r,r,r,r),r,r,r,r,r,C.aW,300)],s),C.n7),r)],s),C.ia,C.jk),r,C.l)),r)}}
 B.MU.prototype={
 $1:function(a){return T.xb(a)},
 $S:320}
 B.MV.prototype={
-$0:function(){return T.xb("https://open.spotify.com/show/3UTiK34aDOOSHFpGQ0RglN")},
+$0:function(){return T.xb("https://open.spotify.com/show/1sJ9NuAAtLT8FKhniRUIs4")},
 $S:321}
 T.zL.prototype={
 R:function(a){return new A.A8(new T.Ov(this,a,Y.a5N(a,!1,u.ji)),null)},
