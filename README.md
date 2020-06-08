@@ -1,5 +1,5 @@
 # Podcast Player
 
-- Podcast RSS Feed: https://rodydavis.github.io/podcast-player/feed.xml
+- Podcast RSS Feed: https://ricffb.github.io/derboardcast/feed.xml
 
-- Podcast Player: https://rodydavis.github.io/podcast-player/
+- Podcast Player: https://ricffb.github.io/derboardcast/
