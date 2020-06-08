@@ -25,6 +25,11 @@
         <itunes:type>episodic</itunes:type>
         <itunes:image href="https://images.squarespace-cdn.com/content/5d075ee0ddd5170001f256a7/1561808792355-2KY7U1C2R0ZVUTQATQTP/PNG+image+6.png?format=1500w&amp;content-type=image%2Fpng"/>
         <description><![CDATA[Wir reden mit euch w&ouml;chentlich &uuml;ber Brett- und Gesellschaftsspiele. Wir stellen euch Spiele vor und unterhalten euch mit Talk-Runden zu Themen aus dem Bereich!]]></description>
+        <image>
+            <url>https://derboardcast/img/icon.png</url>
+            <title>Der Boardcast</title>
+            <link>https://derboardcast.de</link>
+        </image>
         <item>
             <title>Quarantine Diaries - 007</title>
             <dc:creator>Henrik Wachowitz</dc:creator>
@@ -425,6 +430,10 @@
             <content:encoded><![CDATA[<p class="">Für alle die sich nach dem Counter fragen: 41</p><p class="">Link zum Spiel: <a href="https://www.secrethitler.com/">https://www.secrethitler.com/</a></p><p class="">(dort ist auch das Print and play zu finden)</p><p class="">Der äußerst moralische Blogpost, für alle die ihn selbst verköstigen möchten: <a href="https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95">https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95</a></p><p class=""></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Jago, Henrik</itunes:author>
             <author>Jago, Henrik</author>
+            <image>
+                <url>https://derboardcast.de/img/secret_hitler.png</url>
+                <title>EP1 Secret Hitler</title>
+            </image>
             <itunes:subtitle>Heute geht es um das "social deduction" Spiel "Secret Hitler"</itunes:subtitle>
             <itunes:summary>Wir stellen euch das Spiel "Secret Hitler" vor. Wir spielen es selber regelmäßig und haben dabei immer viel Spaß! Warum wir es so geil finden erfahrt ihr in diese Episode.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
