@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
-"main.dart.js": "2b17fe17f227fbea1817d5c6640d5516",
-"feed.xml": "f87505c4f9306e632c43cbaf2fac12fc",
+  "audio/EP1_Secret_Hitler_fin.mp3": "184cfca9976b77fa0827caf2b49c79c3",
+"main.dart.js": "48aa0f8c3a1bddc6e284cfb8ecb669d8",
+"feed.xml": "6ecdd8291431556c622435ce1b3524cb",
 "assets/NOTICES": "3bf1e01ef4cc6a6ac621d3117c2d0af4",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",

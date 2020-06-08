@@ -420,24 +420,21 @@
             <title>EP1 - Secret Hitler</title>
             <dc:creator>Henrik Wachowitz</dc:creator>
             <pubDate>Sat, 29 Jun 2019 12:55:02 +0000</pubDate>
-            <link>https://derboardcast.de/blog/ep1-secret-hitler</link>
             <guid isPermaLink="false">5d075ee0ddd5170001f256a7:5d077518ba7f61000143cb41:5d1751dca860cc00018c7d22</guid>
             <description><![CDATA[<p class="">Für alle die sich nach dem Counter fragen: 41</p><p class="">Link zum Spiel: <a href="https://www.secrethitler.com/">https://www.secrethitler.com/</a></p><p class="">(dort ist auch das Print and play zu finden)</p><p class="">Der äußerst moralische Blogpost, für alle die ihn selbst verköstigen möchten: <a href="https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95">https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95</a></p><p class=""></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></description>
             <content:encoded><![CDATA[<p class="">Für alle die sich nach dem Counter fragen: 41</p><p class="">Link zum Spiel: <a href="https://www.secrethitler.com/">https://www.secrethitler.com/</a></p><p class="">(dort ist auch das Print and play zu finden)</p><p class="">Der äußerst moralische Blogpost, für alle die ihn selbst verköstigen möchten: <a href="https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95">https://medium.com/s/power-moves/non-cooperational-theory-13c5f1986c95</a></p><p class=""></p><p class="">Musik Credits:</p><p class="">HolFix - Wacky Dance <a href="https://www.youtube.com/holfix">https://www.youtube.com/holfix</a></p>]]></content:encoded>
             <itunes:author>Jago, Henrik</itunes:author>
+            <author>Jago, Henrik</author>
             <itunes:subtitle>Heute geht es um das "social deduction" Spiel "Secret Hitler"</itunes:subtitle>
             <itunes:summary>Wir stellen euch das Spiel "Secret Hitler" vor. Wir spielen es selber regelmäßig und haben dabei immer viel Spaß! Warum wir es so geil finden erfahrt ihr in diese Episode.</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>00:49:12</itunes:duration>
-            <itunes:image href="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/5d077518ba7f61000143cb41/5d1751dca860cc00018c7d22/1577177029644/1500w/PNG+image+8.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:title>EP1 - Secret Hitler</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d17520503b9810001cdc93a/1561809704872/EP1_Secret_Hitler_fin.mp3" length="70853821" type="audio/mpeg"/>
-            <media:content url="https://static1.squarespace.com/static/5d075ee0ddd5170001f256a7/t/5d17520503b9810001cdc93a/1561809704872/EP1_Secret_Hitler_fin.mp3" length="70853821" type="audio/mpeg" isDefault="true" medium="audio">
-                <media:title type="plain">EP1 - Secret Hitler</media:title>
-            </media:content>
+            <enclosure url="https://ricffb.github.io/audio/EP1_Secret_Hitler_fin.mp3" length="70853821" type="audio/mpeg"/>
+
         </item>
     </channel>
 </rss>
