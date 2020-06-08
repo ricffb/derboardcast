@@ -433,7 +433,7 @@
             <itunes:episode>1</itunes:episode>
             <itunes:title>EP1 - Secret Hitler</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <enclosure url="https://ricffb.github.io/audio/EP1_Secret_Hitler_fin.mp3" length="70853821" type="audio/mpeg"/>
+            <enclosure url="https://derboardcast.de/audio/EP1_Secret_Hitler_fin.mp3" length="70853821" type="audio/mpeg"/>
 
         </item>
     </channel>

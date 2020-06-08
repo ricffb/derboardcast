@@ -47580,7 +47580,7 @@ lK:function(a){var t=0,s=P.ai(u.z),r=this,q
 var $async$lK=P.ac(function(b,c){if(b===1)return P.af(c,s)
 while(true)switch(t){case 0:q=r.c
 t=2
-return P.as(X.Rz("https://ricffb.github.io/derboardcast/feed.xml"),$async$lK)
+return P.as(X.Rz("https://derboardcast.de/feed.xml"),$async$lK)
 case 2:q.sp(0,c)
 return P.ag(null,s)}})
 return P.ah($async$lK,s)},
@@ -47636,7 +47636,7 @@ T.Or.prototype={
 $1:function(a){return new B.kM(this.a,null)},
 $S:325}
 T.On.prototype={
-$0:function(){T.xb("feed:https://ricffb.github.io/derboardcast/feed.xml")},
+$0:function(){T.xb("feed:https://derboardcast.de/feed.xml")},
 $C:"$0",
 $R:0,
 $S:0}
