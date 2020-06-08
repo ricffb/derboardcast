@@ -47580,7 +47580,7 @@ lK:function(a){var t=0,s=P.ai(u.z),r=this,q
 var $async$lK=P.ac(function(b,c){if(b===1)return P.af(c,s)
 while(true)switch(t){case 0:q=r.c
 t=2
-return P.as(X.Rz("https://rodydavis.github.io/podcast-player/feed.xml"),$async$lK)
+return P.as(X.Rz("https://ricffb.github.io/feed.xml"),$async$lK)
 case 2:q.sp(0,c)
 return P.ag(null,s)}})
 return P.ah($async$lK,s)},
@@ -47601,7 +47601,7 @@ o=Q.PL(r,p,r,L.ep(H.b(n.b),r,r,r,r),o,r)
 p=L.jg(C.w_,r,r)
 t=L.ep("Author",r,r,r,r)
 s=u.t
-return M.a24(q,E.a62(E.a65(T.a4o(H.a([o,Q.PL(r,p,r,L.ep(H.b(n.r),r,r,r,r),t,r),new M.Am(!0,n.c,!1,r,r,r,new B.MU(),r,r,r,r,r),new T.eF(C.a2,r,r,T.a2q(C.y,H.a([M.kz(r,D.zD(r,U.r4("https://rodydavis.github.io/podcast-player/img/spotify.png",r,r),C.ac,!1,r,r,r,r,r,r,r,r,r,r,r,new B.MV(),r,r,r,r,r,r),r,r,r,r,r,C.aW,300)],s),C.n7),r)],s),C.ia,C.jk),r,C.l)),r)}}
+return M.a24(q,E.a62(E.a65(T.a4o(H.a([o,Q.PL(r,p,r,L.ep(H.b(n.r),r,r,r,r),t,r),new M.Am(!0,n.c,!1,r,r,r,new B.MU(),r,r,r,r,r),new T.eF(C.a2,r,r,T.a2q(C.y,H.a([M.kz(r,D.zD(r,U.r4("https://ricffb.github.io/img/spotify.png",r,r),C.ac,!1,r,r,r,r,r,r,r,r,r,r,r,new B.MV(),r,r,r,r,r,r),r,r,r,r,r,C.aW,300)],s),C.n7),r)],s),C.ia,C.jk),r,C.l)),r)}}
 B.MU.prototype={
 $1:function(a){return T.xb(a)},
 $S:320}
@@ -47636,7 +47636,7 @@ T.Or.prototype={
 $1:function(a){return new B.kM(this.a,null)},
 $S:325}
 T.On.prototype={
-$0:function(){T.xb("feed:https://rodydavis.github.io/podcast-player/feed.xml")},
+$0:function(){T.xb("feed:https://ricffb.github.io/feed.xml")},
 $C:"$0",
 $R:0,
 $S:0}
