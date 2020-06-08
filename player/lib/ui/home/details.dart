@@ -12,6 +12,7 @@ class EpisodeDetails extends StatelessWidget {
   const EpisodeDetails({Key key, @required this.episode}) : super(key: key);
   @override
   Widget build(BuildContext context) {
+    print(episode.description);
     return Scaffold(
       appBar: AppBar(
         centerTitle: false,
@@ -31,10 +32,10 @@ class EpisodeDetails extends StatelessWidget {
                 title: Text('Author'),
                 subtitle: Text('${episode.author}'),
               ),
-              Html(
+              Markdown(
                 data: episode.description,
                 shrinkWrap: true,
-                onLinkTap: (val) => launch(val),
+                onTapLink: (val) => launch(val),
               ),
               Center(
                 child: Wrap(
