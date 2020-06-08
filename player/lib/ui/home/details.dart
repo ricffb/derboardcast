@@ -1,6 +1,7 @@
 import 'package:easy_web_view/easy_web_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:flutter_html/flutter_html.dart';
 import 'package:player/src/constants.dart';
 import 'package:podcast_search/podcast_search.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -30,10 +31,10 @@ class EpisodeDetails extends StatelessWidget {
                 title: Text('Author'),
                 subtitle: Text('${episode.author}'),
               ),
-              Markdown(
+              Html(
                 data: episode.description,
                 shrinkWrap: true,
-                onTapLink: (val) => launch(val),
+                onLinkTap: (val) => launch(val),
               ),
               Center(
                 child: Wrap(
