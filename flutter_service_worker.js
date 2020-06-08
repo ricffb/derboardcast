@@ -22,7 +22,7 @@ const RESOURCES = {
 "audio/QD4.mp3": "d964d8ae4491a55bc7a277c742bb8531",
 "audio/EP_6_Azul_fin.mp3": "7e14b254fec26d19a4a9c124bbf5cefe",
 "main.dart.js": "0b05013f641396e96ef060d5b3267451",
-"feed.xml": "623e705ebb12011890a26a395786d90b",
+"feed.xml": "9230b4fa8ac4e3bd2b0fe649e76e4fe7",
 "assets/NOTICES": "da90e60904f5b55cf18f0af5c10fa361",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "ffef466a50fbc9ba6a16887682586d0d",
