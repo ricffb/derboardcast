@@ -15,7 +15,7 @@ jobs:
           channel: 'dev'
     - run: cd player && flutter pub get
     - run: flutter config --enable-web
-    - run: cd player && flutter build web
+    - run: cd player && flutter build web --release
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
